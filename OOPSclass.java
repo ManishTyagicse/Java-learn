@@ -66,6 +66,8 @@ class AdvCalc extends Calc{
     }
 }
 
+// Java doesn't support multiple inheritance
+
 public class OOPSclass{
     public static void main(String a[]){
         AdvCalc ob = new AdvCalc();
