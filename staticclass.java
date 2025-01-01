@@ -46,5 +46,6 @@ public class staticclass{
         // STATIC BLOCK
         // now we use a constructor to initialize the data members\
         // but we only need to initialize static data member once
+        //and therfore we use static block to initialize static varibale once
     }
 }
